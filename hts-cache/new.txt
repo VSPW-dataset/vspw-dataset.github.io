@@ -1,7 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-00:57:13	10364/10364	---MCZ	404	error ('Not%20Found')	text/html	date:Tue,%2023%20Mar%202021%2016:57:12%20GMT	https://www.vspwdataset.com/robots.txt		(from )
-00:57:14	79960/79960	---MCZ	200	added ('OK')	text/html	date:Tue,%2023%20Mar%202021%2016:57:13%20GMT	https://www.vspwdataset.com/	/Users/miaojiaxu/Downloads/vspw2/vspw2/www.vspwdataset.com/index.html	(from )
-00:57:15	79978/79978	---MCZ	200	added ('OK')	text/html	date:Tue,%2023%20Mar%202021%2016:57:14%20GMT	https://www.vspwdataset.com/home	/Users/miaojiaxu/Downloads/vspw2/vspw2/www.vspwdataset.com/home.html	(from https://www.vspwdataset.com/)
-00:57:16	62690/62690	---MCZ	200	added ('OK')	text/html	date:Tue,%2023%20Mar%202021%2016:57:15%20GMT	https://www.vspwdataset.com/people	/Users/miaojiaxu/Downloads/vspw2/vspw2/www.vspwdataset.com/people.html	(from https://www.vspwdataset.com/)
-00:57:17	54769/54769	---MCZ	200	added ('OK')	text/html	date:Tue,%2023%20Mar%202021%2016:57:16%20GMT	https://www.vspwdataset.com/dataset	/Users/miaojiaxu/Downloads/vspw2/vspw2/www.vspwdataset.com/dataset.html	(from https://www.vspwdataset.com/)
-00:57:18	53728/53728	---MCZ	200	added ('OK')	text/html	date:Tue,%2023%20Mar%202021%2016:57:17%20GMT	https://www.vspwdataset.com/challenge	/Users/miaojiaxu/Downloads/vspw2/vspw2/www.vspwdataset.com/challenge.html	(from https://www.vspwdataset.com/)

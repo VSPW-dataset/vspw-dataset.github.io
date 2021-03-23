@@ -1,0 +1,14 @@
+HTTrack3.49-2 launched on Wed, 24 Mar 2021 00:57:11 at https://www.vspwdataset.com/
+(httrack https://www.vspwdataset.com/ -O /Users/miaojiaxu/Downloads/vspw2/vspw2 -P http://agent.baidu.com:8118 -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:57:11	Warning: 	Cache: damaged cache, trying to repair
+00:57:11	Warning: 	Cache: 0 bytes successfully recovered in 0 entries
+00:57:11	Warning: 	Cache: error trying to open the cache
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 seconds : 6 links scanned, 5 files written (331125 bytes overall) [79573 bytes received at 11367 bytes/sec], 341489 bytes transferred using HTTP compression in 6 files, ratio 21%
+(No errors, 3 warnings, 0 messages)
